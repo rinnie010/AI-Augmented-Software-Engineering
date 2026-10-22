@@ -13,8 +13,8 @@ AI-augmented software engineering is the practice of using AI systems — code a
 1. [Setup Environments](lectures/01-setup-environments/) — install Git, GitHub, Python, and a coding agent before the rest of the course.
 2. [Specs-Driven Development](lectures/02-specs-driven-development/) — the agentic SDLC, when SDD fits, Plan Mode, SDD maturity levels, good specs, and SDD frameworks.
 3. [Anatomy of Coding Agents](lectures/03-anatomy-of-coding-agents/) — how LLMs work, the model landscape, why LLMs are good at coding, and coding agents under the hood.
-4. [Advanced Context Management](lectures/04-advanced-context-management/) — a taxonomy of context, context assembly and discovery, the agent runtime pipeline, session management, and MCP fundamentals.
-5. [Agentic Codebase Structure](lectures/05-agentic-codebase-structure/) — skills, rules, and guardrails; CLAUDE.md / AGENTS.md / SKILL.md / intent.md; hooks; and subagent patterns.
+4. [Agentic Codebase Structure](lectures/04-agentic-codebase-structure/) — skills, rules, and guardrails; CLAUDE.md / AGENTS.md / SKILL.md / intent.md; hooks; and subagent patterns.
+5. [Advanced Context Management](lectures/05-advanced-context-management/) — a taxonomy of context, context assembly and discovery, the agent runtime pipeline, session management, and MCP fundamentals.
 6. [Agentic Code Review and Testing](lectures/06-agentic-code-review-and-testing/) — deterministic guardrails, LLM-based review, safe deployment, runtime safety, and monitoring agents.
 7. [Agent Orchestration](lectures/07-agent-orchestration/) — the generator-critic loop, the goal pattern, the Ralph loop, running multiple agents, and the subagent pattern.
 8. [Security in the Age of AI](lectures/08-security-in-the-age-of-ai/) — SAST/SCA and secret leaks, prompt injection and agent attack surfaces, and agent-assisted triage.

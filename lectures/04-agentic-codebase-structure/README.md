@@ -1,4 +1,4 @@
-# Lecture 5 — Agentic Codebase Structure
+# Lecture 4 — Agentic Codebase Structure
 
 ## Topics
 - Skills, rules, and guardrails

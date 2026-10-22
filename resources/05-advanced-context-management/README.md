@@ -1,3 +1,3 @@
-# Resources — Lecture 5: Agentic Codebase Structure
+# Resources — Lecture 5: Advanced Context Management
 
 Papers, links, and supplementary reading for this lecture. Add materials here.

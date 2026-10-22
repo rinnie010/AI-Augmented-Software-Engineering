@@ -1,4 +1,4 @@
-# Lecture 4 — Advanced Context Management
+# Lecture 5 — Advanced Context Management
 
 ## Topics
 - A taxonomy of context components
