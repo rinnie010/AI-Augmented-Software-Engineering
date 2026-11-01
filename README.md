@@ -2,6 +2,8 @@
 
 Course materials for the **AI-Augmented Software Engineering** lecture series.
 
+The course outline and syllabus are on the [course website](https://ai-augmented-se-production.up.railway.app/).
+
 This repository collects lecture notes, slides, code examples, assignments, and resources exploring how modern AI tools change the way software is designed, built, tested, and maintained.
 
 ## Course Overview
@@ -20,6 +22,10 @@ AI-augmented software engineering is the practice of using AI systems — code a
 8. [Security in the Age of AI](lectures/08-security-in-the-age-of-ai/) — SAST/SCA and secret leaks, prompt injection and agent attack surfaces, and agent-assisted triage.
 9. [Software Factory and the Future of Software Engineering](lectures/09-software-factory-and-the-future/) — self-running, self-improving systems and where AI software engineering goes next.
 10. [AI-Native Engineering Teams](lectures/10-ai-native-engineering-teams/) — how AI-native teams work, the standardized team stack, and LLM gateways, model routing, and cost optimization.
+
+## Midterm
+
+The midterm (25 multiple-choice questions, 1 hour, 30% of the grade) covers Lectures 1–5 and their required readings. See the [Midterm Study Guide](resources/midterm-study-guide/).
 
 ## Repository Structure
 
