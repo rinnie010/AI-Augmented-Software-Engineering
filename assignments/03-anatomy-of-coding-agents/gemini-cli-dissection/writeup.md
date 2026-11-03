@@ -1,7 +1,7 @@
 # Week 3 Writeup — Inside a Coding Agent
 
 **Name:** TODO
-**Gemini CLI version (`gemini --version`):** TODO
+**Gemini CLI version (`gemini --version`):** 0.64.0
 **OS / shell:** TODO (e.g. macOS + zsh, Windows + Git Bash)
 **Model(s) seen in trace:** TODO
 **Session commit:** `TODO-sha`
