@@ -1,10 +1,10 @@
 # Week 3 Writeup — Inside a Coding Agent
 
-**Name:** TODO
+**Name:** Simra Baig
 **Gemini CLI version (`gemini --version`):** 0.64.0
 **OS / shell:** Windows WSL with bash terminal)
-**Model(s) seen in trace:** TODO
-**Session commit:** `TODO-sha`
+**Model(s) seen in trace:** gemini-3.5-flash-lite (all 14 calls)
+**Session commit:** `c535879`
 
 > Evidence tags: `[OBSERVED]` = cite a timeline line, call number, or diff hunk.
 > `[INFERRED]` = say what you're reasoning from.
@@ -77,7 +77,7 @@ During the session, I copy pasted the prompt into gemini flash lite and it corre
 | Category | Tools | Used in session (count) |
 |---|---|---|
 | File | read_file, write_file, replace | x6 read_file , x4 replace|
-| Search | glob, grep_search, list_directory | TODO |
+| Search | glob, grep_search, list_directory | 0 (none called) |
 | Shell | run_shell_command, list_background_processes, read_background_output | x4 run_shell_command |
 | Web | google_web_search, web_fetch| not called |
 | Memory / other | update_topic, enter_plan_mode, ask_user, invoke_agent, activate_skill | x4 update_topic|
